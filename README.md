@@ -15,10 +15,7 @@ The dataset used in this analysis originates from Olist's operational data and c
 
 The analysis primarily focuses on understanding sales trends, customer segmentation, and seller performance.
 
-## Data Model
-On Kaggle, she shared its data of 100k orders from 2016 to 2018. There are 8+1 datasets to play with and explore. The data model has been described in image below and it is organised and normalised for each category.
-
-![Data Model](/Users/georgekas/EDA_Project/E-Commerce-Analysis/Data/HRhd2Y0.png)
+![Data Model](/Users/georgekas/EDA_Project/E-Commerce-Analysis/Data_Model.png)
 
 ## Tools and Libraries Used
 The analysis and visualizations were performed using Python and the following libraries:
