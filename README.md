@@ -15,7 +15,7 @@ The dataset used in this analysis originates from Olist's operational data and c
 
 The analysis primarily focuses on understanding sales trends, customer segmentation, and seller performance.
 
-![Data Model](E-Commerce-Analysis/Data_Model.png)
+![Data Model](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*aXTlOcs3-l0L4Bi_pyiADA.png)
 
 ## Tools and Libraries Used
 The analysis and visualizations were performed using Python and the following libraries:
